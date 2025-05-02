@@ -1,4 +1,4 @@
-https://discord.gg/E97GHybkJs
+made by quant https://discord.gg/E97GHybkJs
 # chamsndstuff for critical ops
 first step download uabea https://github.com/nesrak1/UABEA
 download dec version of critical ops
