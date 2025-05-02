@@ -1,4 +1,4 @@
-# chamsndstuff
+# chamsndstuff for critical ops
 first step download uabea https://github.com/nesrak1/UABEA
 download dec version of critical ops
 go to payload-.app-data-raw-assetbun--shaders
